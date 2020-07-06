@@ -8,7 +8,7 @@ Check out a slow motion video showing this process with a glass bottle of water 
 <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/lj3x2U4CaEs?t=134">here</a>. In the clip, you can see the vapor-filled cavities or "bubbles" form and collapse, producing shock waves that are strong enough to break the glass bottle.<br>
 
 <b>Applications of Data Analysis</b><br>
-Cavitation can also damage in pipes, boat propellers, pumps, fuel injectors (in cars), and in diesel engines. By understanding the relationship between the water/liquid pressure and the amount and location of the resulting cavitation, we can create machinery that is less prone to cavitation damage. <br>
+Cavitation causes damage in pipes, boat propellers, pumps, fuel injectors (in cars), and in diesel engines. By understanding the relationship between the water/liquid pressure and the amount and location of the resulting cavitation, we can create machinery that is less prone to cavitation damage. <br>
 <br>
 
 Mean brightness refers to the normalized mean pixel brightness of each image in the dataset<br>
