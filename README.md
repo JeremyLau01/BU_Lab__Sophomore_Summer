@@ -11,7 +11,7 @@ Check out a slow motion video showing this process with a glass bottle of water 
 Cavitation causes damage in pipes, boat propellers, pumps, fuel injectors (in cars), and in diesel engines. By understanding the relationship between the water/liquid pressure and the amount and location of the resulting cavitation, we can create machinery that is less prone to cavitation damage. <br>
 
 <b>What are you looking at in my video?</b><br>
-In the bottom right hand corner of the screen you can see a video (images shown one after another to create a video) of the cavitation process. 
+In the bottom right hand corner of the screen you can see a video (images shown one after another to create a video) of the cavitation process. The water flows from left to right, and you can see bubble cavitation (darker areas) and sheet cavitation (lighter areas) occur.
 The graph
 Mean brightness refers to the normalized mean pixel brightness of each image in the dataset<br>
 Mean voltage refers to the measurements VFD (Variable Frequency Drive - this ____)
