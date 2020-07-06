@@ -1,7 +1,7 @@
 # BU_Lab__Sophomore_Summer
 Over the summer of 2019, I was fortunate enough to work in Glynn Holt's Mechanical Engineering lab (Boston University).
 I analyzed and manipulated audio and visual data with Python to create a video that visualizes cavitation.
-</br></br>View the video I created <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/BU_Lab__Sophomore_Summer/">here</a> <br><br>
+<b></br></br>View the video I created <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/BU_Lab__Sophomore_Summer/">here</a> <br><br></b>
 <b>What is cavitation?</b> <br>
 Cavitation is the process in which a change in a fluid's pressure to below the its vapor pressure creates a vapor-filled cavity. In this case, the pressure drop is created by forcing water into a narrower rectangular channel (creating areas of higher and lower pressure). These vapor-filled bubbles collapse and generate shock waves. This process can also make noise.<br><br>
 Check out a slow motion video showing this process with a glass bottle of water by The Slow Mo Guys on YouTube 
