@@ -4,7 +4,7 @@ I analyzed and manipulated audio and visual data with Python to create a video t
 </br></br>View the video I created <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/BU_Lab__Sophomore_Summer/">here</a> <br><br>
 <b>What are you looking at? What is cavitation?</b> <br>
 Cavitation _<br>
-Mean brightness refers to the normalized mean pixel brightness of each image (converted images into video) <br>
+Mean brightness refers to the normalized mean pixel brightness of each image in the dataset (I put the images together to make the video in the bottom right of the screen) <br>
 Mean voltage refers to the measurements VFD (Variable Frequency Drive - this ____)
 
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
