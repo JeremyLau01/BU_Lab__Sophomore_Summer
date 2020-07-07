@@ -12,7 +12,8 @@ Cavitation causes damage in pipes, boat propellers, pumps, fuel injectors (in ca
 
 <b>What are you looking at in my video?</b><br>
 In the bottom right hand corner of the screen you can see a video (images shown one after another to create a video) of the cavitation process. The water flows from left to right, and you can see bubble cavitation (darker areas) and sheet cavitation (lighter areas) occur.<br><br>
+Mean voltage refers to the mean frequency of the Variable Frequency Drive (VFD) which is used to control the speed of the motor that pumps the water.<br><br>
+
 The mean brightness refers to the normalized mean pixel brightness of each image in the dataset. The mean brightness decreases as more cavitation occurs at faster water flow speeds.<br>
-Mean voltage refers to the Variable Frequency Drive (VFD) which is used to control the speed of the motor used to pump the water.
 
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
