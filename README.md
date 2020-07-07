@@ -4,7 +4,7 @@ I analyzed and manipulated audio and visual data with Python to create a video t
 <b><a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/BU_Lab__Sophomore_Summer/">View the video I created</a> <br><br><br></b>
 <b>What is cavitation?</b> <br>
 Cavitation is the process in which a change in a fluid's pressure to below its vapor pressure creates a vapor-filled cavity. In this case, the pressure drop is created by forcing water into a narrower rectangular channel (creating areas of higher and lower pressure). These vapor-filled bubbles collapse and generate shock waves. The collapsing bubbles also produce noise.<br><br>
-Check out a slow motion video showing this process with a glass bottle of water (from The Slow Mo Guys on YouTube)
+Check out a slow motion video from The Slow Mo Guys showing this process with a glass bottle of water 
 <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/lj3x2U4CaEs?t=134">here</a>. In the clip, you can see the vapor-filled cavities or "bubbles" form and collapse, producing shock waves that are strong enough to break the glass bottle.<br><br>
 
 <b>Applications of Data Analysis</b><br>
