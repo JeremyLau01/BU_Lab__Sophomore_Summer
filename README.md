@@ -19,4 +19,5 @@ The mean voltage refers to the mean frequency of VFD at each recorded time inter
 
 The mean brightness refers to the normalized mean pixel brightness of each image in the dataset. The mean brightness decreases as more cavitation occurs at faster water flow speeds.<br>
 
+
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
