@@ -15,7 +15,7 @@ In the bottom right hand corner of the screen you can see a video (images shown 
 
 In the top right hand corner of the screen you can see a graph of the voltage of the Variable Frequency Driver (VFD) which controls the speed of the motor that pumps the water. <br>
 
-The mean voltage refers to the mean frequency of VFD during each measurement.<br>
+The mean voltage refers to the mean frequency of VFD at each recorded time interval (5000 μs).<br>
 
 The mean brightness refers to the normalized mean pixel brightness of each image in the dataset. The mean brightness decreases as more cavitation occurs at faster water flow speeds.<br>
 
